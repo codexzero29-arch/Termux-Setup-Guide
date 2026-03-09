@@ -233,4 +233,4 @@ rm -rf ~/.cache
 
 <img src="images/donation.png" alt="Binance Pay QR" width="200">
 
----
+--- 
